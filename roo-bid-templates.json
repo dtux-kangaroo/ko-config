@@ -5,6 +5,11 @@
     "url":"github:dtux-kangaroo/pc-react-ant.design",
     "description":"基于react和ant.design的pc项目"
   },
+   {
+    "name":"pc-react-pwa",
+    "url":"https://github.com/dtux-kangaroo/pc-react-pwa.git",
+    "description":"基于react和pwa的pc项目"
+  },
   {
     "name":"pc-vue-element",
     "url":"github:dtux-kangaroo/pc-vue-element",
