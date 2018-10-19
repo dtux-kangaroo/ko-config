@@ -7,7 +7,7 @@
   },
    {
     "name":"pc-react-pwa",
-    "url":"https://github.com/dtux-kangaroo/pc-react-pwa.git",
+    "url":"github:dtux-kangaroo/pc-react-pwa",
     "description":"基于react和pwa的pc项目"
   },
   {
