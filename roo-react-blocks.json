@@ -12,7 +12,7 @@
           "source": {
               "type": "npm",
               "npm": "@kodesign/ability-introduction-block",
-              "version": "1.2.0",
+              "version": "1.3.2",
               "registry": "http://registry.npmjs.com",
               "sourceCodeDirectory": "src/"
           },
@@ -31,7 +31,7 @@
           "source": {
               "type": "npm",
               "npm": "@kodesign/block-about",
-              "version": "1.4.0",
+              "version": "1.0.0",
               "registry": "http://registry.npmjs.com",
               "sourceCodeDirectory": "src/"
           },
@@ -51,7 +51,7 @@
           "source": {
               "type": "npm",
               "npm": "@kodesign/area-stack-chart-block",
-              "version": "1.2.0",
+              "version": "1.3.2",
               "registry": "http://registry.npmjs.com",
               "sourceCodeDirectory": "src/"
           },
@@ -71,7 +71,7 @@
           "source": {
               "type": "npm",
               "npm": "@kodesign/article-list-block",
-              "version": "1.2.0",
+              "version": "1.3.2",
               "registry": "http://registry.npmjs.com",
               "sourceCodeDirectory": "src/"
           },
@@ -91,7 +91,7 @@
           "source": {
               "type": "npm",
               "npm": "@kodesign/bar-line-chart-block",
-              "version": "1.2.0",
+              "version": "1.3.2",
               "registry": "http://registry.npmjs.com",
               "sourceCodeDirectory": "src/"
           },
@@ -112,7 +112,7 @@
           "source": {
               "type": "npm",
               "npm": "@kodesign/brand-display-block",
-              "version": "1.2.0",
+              "version": "1.3.2",
               "registry": "http://registry.npmjs.com",
               "sourceCodeDirectory": "src/"
           },
@@ -132,7 +132,7 @@
           "source": {
               "type": "npm",
               "npm": "@kodesign/brand-list-block",
-              "version": "1.2.0",
+              "version": "1.3.2",
               "registry": "http://registry.npmjs.com",
               "sourceCodeDirectory": "src/"
           },
@@ -152,7 +152,7 @@
           "source": {
               "type": "npm",
               "npm": "@kodesign/change-password-form-block",
-              "version": "1.2.0",
+              "version": "1.3.2",
               "registry": "http://registry.npmjs.com",
               "sourceCodeDirectory": "src/"
           },
@@ -172,7 +172,7 @@
           "source": {
               "type": "npm",
               "npm": "@kodesign/chart-pie-block",
-              "version": "1.2.0",
+              "version": "1.3.2",
               "registry": "http://registry.npmjs.com",
               "sourceCodeDirectory": "src/"
           },
@@ -192,7 +192,7 @@
           "source": {
               "type": "npm",
               "npm": "@kodesign/chart-relation-block",
-              "version": "1.2.0",
+              "version": "1.3.2",
               "registry": "http://registry.npmjs.com",
               "sourceCodeDirectory": "src/"
           },
@@ -212,7 +212,7 @@
           "source": {
               "type": "npm",
               "npm": "@kodesign/circle-progress-block",
-              "version": "1.2.0",
+              "version": "1.3.2",
               "registry": "http://registry.npmjs.com",
               "sourceCodeDirectory": "src/"
           },
@@ -232,7 +232,7 @@
           "source": {
               "type": "npm",
               "npm": "@kodesign/footer-links-block",
-              "version": "1.2.0",
+              "version": "1.3.2",
               "registry": "http://registry.npmjs.com",
               "sourceCodeDirectory": "src/"
           },
@@ -251,7 +251,7 @@
           "source": {
               "type": "npm",
               "npm": "@kodesign/block-markdown",
-              "version": "1.4.0",
+              "version": "1.2.1",
               "registry": "http://registry.npmjs.com",
               "sourceCodeDirectory": "src/"
           },
@@ -271,7 +271,7 @@
           "source": {
               "type": "npm",
               "npm": "@kodesign/signup-form-block",
-              "version": "1.2.0",
+              "version": "1.3.2",
               "registry": "http://registry.npmjs.com",
               "sourceCodeDirectory": "src/"
           },
@@ -291,7 +291,7 @@
           "source": {
               "type": "npm",
               "npm": "@kodesign/tab-dialog-block",
-              "version": "1.2.0",
+              "version": "1.3.2",
               "registry": "http://registry.npmjs.com",
               "sourceCodeDirectory": "src/"
           },
