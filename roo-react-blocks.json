@@ -3,421 +3,316 @@
     "type": "react",
     "blocks":[
       {
-        "name": "ability-introduction",
-        "title": "产品能力介绍",
-        "source": {
-          "type": "npm",
-          "npm": "@icedesign/ability-introduction-block",
-          "version": "1.0.0",
-          "registry": "http://registry.npmjs.com",
-          "sourceCodeDirectory": "src/"
-        },
-        "dependencies": {
-          "@icedesign/base": "^0.2.1",
-          "prop-types": "^15.5.8",
-          "react": "^16.2.0"
-        },
-        "screenshot": "https://gw.alicdn.com/tfs/TB1T_OutDtYBeNjy1XdXXXXyVXa-2458-1186.png",
-        "categories": [
-          "信息展示"
-        ],
-        "features": {
-          "useComponents": [
-            {
-              "basePackage": "@icedesign/base",
-              "className": "Grid"
-            }
-          ]
-        },
-        "description": "产品能力介绍",
-        "homepage": "https://alibaba.github.io/ice/block/ability-introduction",
-        "repository": "https://github.com/alibaba/ice/tree/master/react-materials/blocks/AbilityIntroduction",
-        "publishTime": "2018-12-13T08:48:27.377Z",
-        "updateTime": "2018-12-13T08:48:30.348Z"
+          "name": "ability-introduction",
+          "title": "产品能力介绍",
+          "categories": [
+              "信息展示"
+          ],
+          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/ability-introduction.png",
+          "source": {
+              "type": "npm",
+              "npm": "@kodesign/ability-introduction-block",
+              "version": "1.2.0",
+              "registry": "http://registry.npmjs.com",
+              "sourceCodeDirectory": "src/"
+          },
+          "homepage": "",
+          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/ability-introduction-block",
+          "publishTime": "2018-12-13T08:48:27.377Z",
+          "updateTime": "2018-12-13T08:48:30.348Z"
       },
       {
-        "name": "ablity-items",
-        "title": "特性展示",
-        "source": {
-          "type": "npm",
-          "npm": "@icedesign/ablity-items-block",
-          "version": "1.0.3",
-          "registry": "http://registry.npmjs.com",
-          "sourceCodeDirectory": "src/"
-        },
-        "dependencies": {
-          "react": "^16.2.0",
-          "prop-types": "^15.5.8"
-        },
-        "screenshot": "https://img.alicdn.com/tfs/TB1TBcQCgmTBuNjy1XbXXaMrVXa-1683-293.png",
-        "categories": [
-          "信息展示",
-          "欢迎页"
-        ],
-        "features": {
-          "useComponents": []
-        },
-        "description": "中间展示特点 特性的区块",
-        "homepage": "https://alibaba.github.io/ice/block/ablity-items",
-        "repository": "https://github.com/alibaba/ice/tree/master/react-materials/blocks/AblityItems",
-        "publishTime": "2018-07-05T02:12:22.773Z",
-        "updateTime": "2018-12-13T08:25:26.653Z"
+          "name": "about",
+          "title": "关于",
+          "categories": [
+              "信息展示"
+          ],
+          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/about.png",
+          "source": {
+              "type": "npm",
+              "npm": "@kodesign/block-about",
+              "version": "1.4.0",
+              "registry": "http://registry.npmjs.com",
+              "sourceCodeDirectory": "src/"
+          },
+          "homepage": "",
+          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/about",
+          "publishTime": "2018-12-13T08:48:27.377Z",
+          "updateTime": "2018-12-13T08:48:30.348Z"
       },
       {
-        "name": "about",
-        "title": "关于",
-        "source": {
-          "type": "npm",
-          "npm": "@icedesign/about-block",
-          "version": "1.0.3",
-          "registry": "http://registry.npmjs.com",
-          "sourceCodeDirectory": "src/"
-        },
-        "dependencies": {
-          "react": "^16.2.0",
-          "prop-types": "^15.5.8"
-        },
-        "screenshot": "https://img.alicdn.com/tfs/TB1rINTukZmBKNjSZPiXXXFNVXa-2722-1092.png",
-        "categories": [
-          "信息展示"
-        ],
-        "features": {
-          "useComponents": []
-        },
-        "description": "适用于产品的简介",
-        "homepage": "https://alibaba.github.io/ice/block/about",
-        "repository": "https://github.com/alibaba/ice/tree/master/react-materials/blocks/About",
-        "publishTime": "2018-08-30T15:36:42.880Z",
-        "updateTime": "2018-12-13T08:25:27.306Z"
+          "name": "area-stack-chart",
+          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/area-stack-chart.png",
+          "themePackage": "",
+          "title": "叠加面积图",
+          "categories": [
+              "图表"
+          ],
+          "source": {
+              "type": "npm",
+              "npm": "@kodesign/area-stack-chart-block",
+              "version": "1.2.0",
+              "registry": "http://registry.npmjs.com",
+              "sourceCodeDirectory": "src/"
+          },
+          "homepage": "",
+          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/area-stack-chart",
+          "publishTime": "2018-12-13T08:48:27.377Z",
+          "updateTime": "2018-12-13T08:48:30.348Z"
       },
       {
-        "name": "account-badge",
-        "title": "账户勋章",
-        "source": {
-          "type": "npm",
-          "npm": "@icedesign/account-badge-block",
-          "version": "1.0.0",
-          "registry": "http://registry.npmjs.com",
-          "sourceCodeDirectory": "src/"
-        },
-        "dependencies": {
-          "@icedesign/base": "^0.2.4",
-          "@icedesign/container": "^0.1.4",
-          "prop-types": "^15.5.8",
-          "react": "^16.2.0"
-        },
-        "screenshot": "https://img.alicdn.com/tfs/TB18PFFfxtnkeRjSZSgXXXAuXXa-1866-378.png",
-        "categories": [
-          "信息展示"
-        ],
-        "features": {
-          "useComponents": [
-            {
-              "basePackage": "@icedesign/container",
-              "className": "Container"
-            },
-            {
-              "basePackage": "@icedesign/base",
-              "className": "Grid"
-            }
-          ]
-        },
-        "description": "展示账户权益勋章等权益信息",
-        "homepage": "https://alibaba.github.io/ice/block/account-badge",
-        "repository": "https://github.com/alibaba/ice/tree/master/react-materials/blocks/AccountBadge",
-        "publishTime": "2018-12-13T08:48:27.740Z",
-        "updateTime": "2018-12-13T08:48:30.630Z"
+          "name": "article-list",
+          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/article-list.png",
+          "themePackage": "",
+          "title": "文章列表",
+          "categories": [
+              "信息展示"
+          ],
+          "source": {
+              "type": "npm",
+              "npm": "@kodesign/article-list-block",
+              "version": "1.2.0",
+              "registry": "http://registry.npmjs.com",
+              "sourceCodeDirectory": "src/"
+          },
+          "homepage": "",
+          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/article-list",
+          "publishTime": "2018-12-13T08:48:27.377Z",
+          "updateTime": "2018-12-13T08:48:30.348Z"
       },
       {
-        "name": "account-features",
-        "title": "账户特性",
-        "source": {
-          "type": "npm",
-          "npm": "@icedesign/account-features-block",
-          "version": "1.0.0",
-          "registry": "http://registry.npmjs.com",
-          "sourceCodeDirectory": "src/"
-        },
-        "dependencies": {
-          "@icedesign/base": "^0.2.4",
-          "@icedesign/container": "^0.1.4",
-          "prop-types": "^15.5.8",
-          "react": "^16.2.0"
-        },
-        "screenshot": "https://img.alicdn.com/tfs/TB1Z_J9pj7nBKNjSZLeXXbxCFXa-1868-1218.png",
-        "categories": [
-          "列表"
-        ],
-        "features": {
-          "useComponents": [
-            {
-              "basePackage": "@icedesign/container",
-              "className": "Container"
-            },
-            {
-              "basePackage": "@icedesign/base",
-              "className": "Grid"
-            }
-          ]
-        },
-        "description": "罗列账户功能列表",
-        "homepage": "https://alibaba.github.io/ice/block/account-features",
-        "repository": "https://github.com/alibaba/ice/tree/master/react-materials/blocks/AccountFeatures",
-        "publishTime": "2018-12-13T08:48:27.306Z",
-        "updateTime": "2018-12-13T08:48:31.664Z"
+          "name": "bar-line-chart",
+          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/bar-line-chart.png",
+          "title": "折柱混合图",
+          "categories": [
+              "图表"
+          ],
+          "themePackage": "",
+          "source": {
+              "type": "npm",
+              "npm": "@kodesign/bar-line-chart-block",
+              "version": "1.2.0",
+              "registry": "http://registry.npmjs.com",
+              "sourceCodeDirectory": "src/"
+          },
+          "homepage": "",
+          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/bar-line-chart",
+          "publishTime": "2018-12-13T08:48:27.377Z",
+          "updateTime": "2018-12-13T08:48:30.348Z"
       },
       {
-        "name": "account-panel",
-        "title": "账户信息",
-        "source": {
-          "type": "npm",
-          "npm": "@icedesign/account-panel-block",
-          "version": "1.0.0",
-          "registry": "http://registry.npmjs.com",
-          "sourceCodeDirectory": "src/"
-        },
-        "dependencies": {
-          "@icedesign/base": "^0.2.4",
-          "@icedesign/container": "^0.1.4",
-          "@icedesign/form-binder": "^0.1.7",
-          "prop-types": "^15.5.8",
-          "react": "^16.2.0"
-        },
-        "screenshot": "https://img.alicdn.com/tfs/TB1lXJfpr3nBKNjSZFMXXaUSFXa-1868-788.png",
-        "categories": [
-          "信息展示"
-        ],
-        "features": {
-          "useComponents": [
-            {
-              "basePackage": "@icedesign/container",
-              "className": "Container"
-            },
-            {
-              "basePackage": "@icedesign/base",
-              "className": "Button"
-            },
-            {
-              "basePackage": "@icedesign/base",
-              "className": "Dialog"
-            },
-            {
-              "basePackage": "@icedesign/base",
-              "className": "Input"
-            },
-            {
-              "basePackage": "@icedesign/base",
-              "className": "Upload"
-            }
-          ]
-        },
-        "description": "用户中心展示账户信息内容",
-        "homepage": "https://alibaba.github.io/ice/block/account-panel",
-        "repository": "https://github.com/alibaba/ice/tree/master/react-materials/blocks/AccountPanel",
-        "publishTime": "2018-12-13T08:48:27.642Z",
-        "updateTime": "2018-12-13T08:48:32.143Z"
+          "name": "brand-display",
+          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/brand-display.png",
+          "themePackage": "",
+          "title": "品牌列表展示",
+          "categories": [
+              "信息展示",
+              "欢迎页"
+          ],
+          "source": {
+              "type": "npm",
+              "npm": "@kodesign/brand-display-block",
+              "version": "1.2.0",
+              "registry": "http://registry.npmjs.com",
+              "sourceCodeDirectory": "src/"
+          },
+          "homepage": "",
+          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/brand-display",
+          "publishTime": "2018-12-13T08:48:27.377Z",
+          "updateTime": "2018-12-13T08:48:30.348Z"
       },
       {
-        "name": "account-status",
-        "title": "账户状态",
-        "source": {
-          "type": "npm",
-          "npm": "@icedesign/account-status-block",
-          "version": "1.0.0",
-          "registry": "http://registry.npmjs.com",
-          "sourceCodeDirectory": "src/"
-        },
-        "dependencies": {
-          "@icedesign/base": "^0.2.4",
-          "@icedesign/container": "^0.1.4",
-          "prop-types": "^15.5.8",
-          "react": "^16.2.0"
-        },
-        "screenshot": "https://img.alicdn.com/tfs/TB1lcWrpaQoBKNjSZJnXXaw9VXa-2020-374.png",
-        "categories": [
-          "信息展示"
-        ],
-        "features": {
-          "useComponents": [
-            {
-              "basePackage": "@icedesign/container",
-              "className": "Container"
-            },
-            {
-              "basePackage": "@icedesign/base",
-              "className": "Grid"
-            }
-          ]
-        },
-        "description": "展示账户标识以及操作等",
-        "homepage": "https://alibaba.github.io/ice/block/account-status",
-        "repository": "https://github.com/alibaba/ice/tree/master/react-materials/blocks/AccountStatus",
-        "publishTime": "2018-12-13T08:48:31.920Z",
-        "updateTime": "2018-12-13T08:48:34.907Z"
+          "name": "brand-list",
+          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/brand-list.png",
+          "title": "品牌列表",
+          "categories": [
+              "信息展示"
+          ],
+          "themePackage": "",
+          "source": {
+              "type": "npm",
+              "npm": "@kodesign/brand-list-block",
+              "version": "1.2.0",
+              "registry": "http://registry.npmjs.com",
+              "sourceCodeDirectory": "src/"
+          },
+          "homepage": "",
+          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/brand-list",
+          "publishTime": "2018-12-13T08:48:27.377Z",
+          "updateTime": "2018-12-13T08:48:30.348Z"
       },
       {
-        "name": "address-info",
-        "title": "地址信息",
-        "source": {
-          "type": "npm",
-          "npm": "@icedesign/address-info-block",
-          "version": "1.0.3",
-          "registry": "http://registry.npmjs.com",
-          "sourceCodeDirectory": "src/"
-        },
-        "dependencies": {
-          "react": "^16.2.0",
-          "prop-types": "^15.5.8"
-        },
-        "screenshot": "https://img.alicdn.com/tfs/TB1eO4gupkoBKNjSZFkXXb4tFXa-2528-1448.png",
-        "categories": [
-          "信息展示"
-        ],
-        "features": {
-          "useComponents": []
-        },
-        "description": "适用于地址的信息展示",
-        "homepage": "https://alibaba.github.io/ice/block/address-info",
-        "repository": "https://github.com/alibaba/ice/tree/master/react-materials/blocks/AddressInfo",
-        "publishTime": "2018-08-30T15:36:43.522Z",
-        "updateTime": "2018-12-13T08:50:37.718Z"
+          "name": "change-password-form",
+          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/change-password-form.png",
+          "title": "修改密码表单",
+          "categories": [
+              "表单"
+          ],
+          "themePackage": "",
+          "source": {
+              "type": "npm",
+              "npm": "@kodesign/change-password-form-block",
+              "version": "1.2.0",
+              "registry": "http://registry.npmjs.com",
+              "sourceCodeDirectory": "src/"
+          },
+          "homepage": "",
+          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/change-password-form",
+          "publishTime": "2018-12-13T08:48:27.377Z",
+          "updateTime": "2018-12-13T08:48:30.348Z"
       },
       {
-        "name": "application-progress",
-        "title": "申请进度信息展示",
-        "source": {
-          "type": "npm",
-          "npm": "@icedesign/application-progress-block",
-          "version": "0.1.9",
-          "registry": "http://registry.npmjs.com",
-          "sourceCodeDirectory": "src/"
-        },
-        "dependencies": {
-          "@icedesign/base": "^0.2.0",
-          "@icedesign/container": "^0.1.0",
-          "enquire-js": "^0.1.2",
-          "prop-types": "^15.5.8"
-        },
-        "screenshot": "https://img.alicdn.com/tfs/TB1I67ih3vD8KJjy0FlXXagBFXa-947-929.png",
-        "categories": [
-          "信息展示"
-        ],
-        "features": {
-          "useComponents": [
-            {
-              "basePackage": "@icedesign/container",
-              "className": "Container"
-            },
-            {
-              "basePackage": "@icedesign/base",
-              "className": "Button"
-            },
-            {
-              "basePackage": "@icedesign/base",
-              "className": "Step"
-            },
-            {
-              "basePackage": "@icedesign/base",
-              "className": "Grid"
-            },
-            {
-              "basePackage": "@icedesign/base",
-              "className": "Icon"
-            }
-          ]
-        },
-        "description": "申请进度信息展示",
-        "homepage": "https://alibaba.github.io/ice/block/application-progress",
-        "repository": "https://github.com/alibaba/ice/tree/master/react-materials/blocks/ApplicationProgress",
-        "publishTime": "2018-01-02T12:20:33.619Z",
-        "updateTime": "2018-12-13T08:25:37.468Z"
+          "name": "chart-pie",
+          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/chart-pie.png",
+          "themePackage": "",
+          "title": "饼图",
+          "categories": [
+              "图表"
+          ],
+          "source": {
+              "type": "npm",
+              "npm": "@kodesign/chart-pie-block",
+              "version": "1.2.0",
+              "registry": "http://registry.npmjs.com",
+              "sourceCodeDirectory": "src/"
+          },
+          "homepage": "",
+          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/chart-pie",
+          "publishTime": "2018-12-13T08:48:27.377Z",
+          "updateTime": "2018-12-13T08:48:30.348Z"
       },
       {
-        "name": "area-stack-chart",
-        "title": "叠加面积图",
-        "source": {
-          "type": "npm",
-          "npm": "@icedesign/area-stack-chart-block",
-          "version": "0.1.7",
-          "registry": "http://registry.npmjs.com",
-          "sourceCodeDirectory": "src/"
-        },
-        "dependencies": {
-          "@icedesign/base": "^0.2.0",
-          "@icedesign/container": "^0.1.0",
-          "bizcharts": "^3.0.5",
-          "classnames": "^2.2.5",
-          "prop-types": "^15.5.8"
-        },
-        "screenshot": "https://img.alicdn.com/tfs/TB13crWidfJ8KJjy0FeXXXKEXXa-1754-994.png",
-        "categories": [
-          "图表"
-        ],
-        "features": {
-          "useComponents": [
-            {
-              "basePackage": "@icedesign/container",
-              "className": "Container"
-            }
-          ]
-        },
-        "description": "叠加面积图",
-        "homepage": "https://alibaba.github.io/ice/block/area-stack-chart",
-        "repository": "https://github.com/alibaba/ice/tree/master/react-materials/blocks/AreaStackChart",
-        "publishTime": "2017-12-27T13:28:45.632Z",
-        "updateTime": "2018-12-13T08:25:38.680Z"
+          "name": "chart-relation",
+          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/chart-relation.png",
+          "themePackage": "",
+          "title": "关系图",
+          "categories": [
+              "图表"
+          ],
+          "source": {
+              "type": "npm",
+              "npm": "@kodesign/chart-relation-block",
+              "version": "1.2.0",
+              "registry": "http://registry.npmjs.com",
+              "sourceCodeDirectory": "src/"
+          },
+          "homepage": "",
+          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/chart-relation",
+          "publishTime": "2018-12-13T08:48:27.377Z",
+          "updateTime": "2018-12-13T08:48:30.348Z"
       },
       {
-        "name": "article-list",
-        "title": "文章列表",
-        "source": {
-          "type": "npm",
-          "npm": "@icedesign/article-list-block",
-          "version": "0.1.8",
-          "registry": "http://registry.npmjs.com",
-          "sourceCodeDirectory": "src/"
-        },
-        "dependencies": {
-          "@icedesign/base": "^0.2.0",
-          "@icedesign/container": "^0.1.0",
-          "prop-types": "^15.5.8"
-        },
-        "screenshot": "https://img.alicdn.com/tfs/TB1PXQAifDH8KJjy1XcXXcpdXXa-1906-996.png",
-        "categories": [
-          "信息展示"
-        ],
-        "features": {
-          "useComponents": [
-            {
-              "basePackage": "@icedesign/container",
-              "className": "Container"
-            },
-            {
-              "basePackage": "@icedesign/base",
-              "className": "Icon"
-            }
-          ]
-        },
-        "description": "文章列表",
-        "homepage": "https://alibaba.github.io/ice/block/article-list",
-        "repository": "https://github.com/alibaba/ice/tree/master/react-materials/blocks/ArticleList",
-        "publishTime": "2018-01-02T12:20:03.975Z",
-        "updateTime": "2018-12-13T08:50:36.212Z"
+          "name": "circle-progress",
+          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/circle-progress.png",
+          "title": "环形进度条",
+          "categories": [
+              "数据展示"
+          ],
+          "themePackage": "",
+          "source": {
+              "type": "npm",
+              "npm": "@kodesign/circle-progress-block",
+              "version": "1.2.0",
+              "registry": "http://registry.npmjs.com",
+              "sourceCodeDirectory": "src/"
+          },
+          "homepage": "",
+          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/circle-progress",
+          "publishTime": "2018-12-13T08:48:27.377Z",
+          "updateTime": "2018-12-13T08:48:30.348Z"
+      },
+      {
+          "name": "footer-links",
+          "title": "底部链接",
+          "categories": [
+              "信息展示",
+              "欢迎页"
+          ],
+          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/footer-links.png",
+          "source": {
+              "type": "npm",
+              "npm": "@kodesign/footer-links-block",
+              "version": "1.2.0",
+              "registry": "http://registry.npmjs.com",
+              "sourceCodeDirectory": "src/"
+          },
+          "homepage": "",
+          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/footer-links",
+          "publishTime": "2018-12-13T08:48:27.377Z",
+          "updateTime": "2018-12-13T08:48:30.348Z"
+      },
+      {
+          "name": "markdown",
+          "title": "markdown 简介",
+          "categories": [
+              "文本编辑"
+          ],
+          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/markdown.png",
+          "source": {
+              "type": "npm",
+              "npm": "@kodesign/block-markdown",
+              "version": "1.4.0",
+              "registry": "http://registry.npmjs.com",
+              "sourceCodeDirectory": "src/"
+          },
+          "homepage": "",
+          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/markdown",
+          "publishTime": "2018-12-13T08:48:27.377Z",
+          "updateTime": "2018-12-13T08:48:30.348Z"
+      },
+      {
+          "name": "signup-form",
+          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/signup-form.png",
+          "themePackage": "",
+          "title": "登录表单",
+          "categories": [
+              "表单"
+          ],
+          "source": {
+              "type": "npm",
+              "npm": "@kodesign/signup-form-block",
+              "version": "1.2.0",
+              "registry": "http://registry.npmjs.com",
+              "sourceCodeDirectory": "src/"
+          },
+          "homepage": "",
+          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/signup-form",
+          "publishTime": "2018-12-13T08:48:27.377Z",
+          "updateTime": "2018-12-13T08:48:30.348Z"
+      },
+      {
+          "name": "tab-dialog",
+          "title": "标签内容弹窗",
+          "categories": [
+              "模态框"
+          ],
+          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/tab-dialog.png",
+          "themePackage": "@icedesign/skin",
+          "source": {
+              "type": "npm",
+              "npm": "@kodesign/tab-dialog-block",
+              "version": "1.2.0",
+              "registry": "http://registry.npmjs.com",
+              "sourceCodeDirectory": "src/"
+          },
+          "homepage": "",
+          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/tab-dialog",
+          "publishTime": "2018-12-13T08:48:27.377Z",
+          "updateTime": "2018-12-13T08:48:30.348Z"
       }
-    ],
+  ],
     "layouts": [
       {
         "name": "blank-layout",
         "title": "空白布局",
         "source": {
           "type": "npm",
-          "npm": "@icedesign/blank-layout",
+          "npm": "@kodesign/blank-layout",
           "version": "0.1.5",
           "registry": "http://registry.npmjs.com",
           "sourceCodeDirectory": "src/"
         },
         "dependencies": {
-          "@icedesign/layout": "^0.1.1",
           "classnames": "^2.2.5",
           "prop-types": "^15.5.8"
         },
@@ -428,7 +323,7 @@
         "features": {
           "useComponents": [
             {
-              "basePackage": "@icedesign/layout",
+              "basePackage": "@kodesign/layout",
               "className": "Layout"
             }
           ]
@@ -451,16 +346,6 @@
           "registry": "http://registry.npmjs.com"
         },
         "dependencies": {
-          "@antv/data-set": "^0.8.9",
-          "@icedesign/base": "^0.2.5",
-          "@icedesign/container": "^0.1.4",
-          "@icedesign/ellipsis": "^0.1.2",
-          "@icedesign/form-binder": "^0.1.7",
-          "@icedesign/icon": "^0.1.1",
-          "@icedesign/img": "^0.1.0",
-          "@icedesign/layout": "^0.1.0",
-          "@icedesign/menu": "^0.1.0",
-          "@icedesign/skin": "^0.1.0",
           "bizcharts": "^3.2.2",
           "classnames": "^2.2.5",
           "foundation-symbol": "^0.1.0",
