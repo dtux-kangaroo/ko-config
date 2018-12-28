@@ -1,378 +1,300 @@
-{
-    "name": "roo-react-blocks",
-    "type": "react",
-    "blocks":[
-      {
-          "name": "ability-introduction",
-          "title": "产品能力介绍",
-          "categories": [
-              "信息展示"
-          ],
-          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/ability-introduction.png",
-          "source": {
-              "type": "npm",
-              "npm": "@kodesign/ability-introduction-block",
-              "version": "1.3.2",
-              "registry": "http://registry.npmjs.com",
-              "sourceCodeDirectory": "src/"
-          },
-          "homepage": "",
-          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/ability-introduction-block",
-          "publishTime": "2018-12-13T08:48:27.377Z",
-          "updateTime": "2018-12-13T08:48:30.348Z"
-      },
-      {
-          "name": "block-about",
-          "title": "关于",
-          "categories": [
-              "信息展示"
-          ],
-          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/about.png",
-          "source": {
-              "type": "npm",
-              "npm": "@kodesign/block-about",
-              "version": "1.0.0",
-              "registry": "http://registry.npmjs.com",
-              "sourceCodeDirectory": "src/"
-          },
-          "homepage": "",
-          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/about",
-          "publishTime": "2018-12-13T08:48:27.377Z",
-          "updateTime": "2018-12-13T08:48:30.348Z"
-      },
-      {
-          "name": "area-stack-chart",
-          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/area-stack-chart.png",
-          "themePackage": "",
-          "title": "叠加面积图",
-          "categories": [
-              "图表"
-          ],
-          "source": {
-              "type": "npm",
-              "npm": "@kodesign/area-stack-chart-block",
-              "version": "1.3.2",
-              "registry": "http://registry.npmjs.com",
-              "sourceCodeDirectory": "src/"
-          },
-          "homepage": "",
-          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/area-stack-chart",
-          "publishTime": "2018-12-13T08:48:27.377Z",
-          "updateTime": "2018-12-13T08:48:30.348Z"
-      },
-      {
-          "name": "article-list",
-          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/article-list.png",
-          "themePackage": "",
-          "title": "文章列表",
-          "categories": [
-              "信息展示"
-          ],
-          "source": {
-              "type": "npm",
-              "npm": "@kodesign/article-list-block",
-              "version": "1.3.2",
-              "registry": "http://registry.npmjs.com",
-              "sourceCodeDirectory": "src/"
-          },
-          "homepage": "",
-          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/article-list",
-          "publishTime": "2018-12-13T08:48:27.377Z",
-          "updateTime": "2018-12-13T08:48:30.348Z"
-      },
-      {
-          "name": "bar-line-chart",
-          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/bar-line-chart.png",
-          "title": "折柱混合图",
-          "categories": [
-              "图表"
-          ],
-          "themePackage": "",
-          "source": {
-              "type": "npm",
-              "npm": "@kodesign/bar-line-chart-block",
-              "version": "1.3.2",
-              "registry": "http://registry.npmjs.com",
-              "sourceCodeDirectory": "src/"
-          },
-          "homepage": "",
-          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/bar-line-chart",
-          "publishTime": "2018-12-13T08:48:27.377Z",
-          "updateTime": "2018-12-13T08:48:30.348Z"
-      },
-      {
-          "name": "brand-display",
-          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/brand-display.png",
-          "themePackage": "",
-          "title": "品牌列表展示",
-          "categories": [
-              "信息展示",
-              "欢迎页"
-          ],
-          "source": {
-              "type": "npm",
-              "npm": "@kodesign/brand-display-block",
-              "version": "1.3.2",
-              "registry": "http://registry.npmjs.com",
-              "sourceCodeDirectory": "src/"
-          },
-          "homepage": "",
-          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/brand-display",
-          "publishTime": "2018-12-13T08:48:27.377Z",
-          "updateTime": "2018-12-13T08:48:30.348Z"
-      },
-      {
-          "name": "brand-list",
-          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/brand-list.png",
-          "title": "品牌列表",
-          "categories": [
-              "信息展示"
-          ],
-          "themePackage": "",
-          "source": {
-              "type": "npm",
-              "npm": "@kodesign/brand-list-block",
-              "version": "1.3.2",
-              "registry": "http://registry.npmjs.com",
-              "sourceCodeDirectory": "src/"
-          },
-          "homepage": "",
-          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/brand-list",
-          "publishTime": "2018-12-13T08:48:27.377Z",
-          "updateTime": "2018-12-13T08:48:30.348Z"
-      },
-      {
-          "name": "change-password-form",
-          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/change-password-form.png",
-          "title": "修改密码表单",
-          "categories": [
-              "表单"
-          ],
-          "themePackage": "",
-          "source": {
-              "type": "npm",
-              "npm": "@kodesign/change-password-form-block",
-              "version": "1.3.2",
-              "registry": "http://registry.npmjs.com",
-              "sourceCodeDirectory": "src/"
-          },
-          "homepage": "",
-          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/change-password-form",
-          "publishTime": "2018-12-13T08:48:27.377Z",
-          "updateTime": "2018-12-13T08:48:30.348Z"
-      },
-      {
-          "name": "chart-pie",
-          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/chart-pie.png",
-          "themePackage": "",
-          "title": "饼图",
-          "categories": [
-              "图表"
-          ],
-          "source": {
-              "type": "npm",
-              "npm": "@kodesign/chart-pie-block",
-              "version": "1.3.2",
-              "registry": "http://registry.npmjs.com",
-              "sourceCodeDirectory": "src/"
-          },
-          "homepage": "",
-          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/chart-pie",
-          "publishTime": "2018-12-13T08:48:27.377Z",
-          "updateTime": "2018-12-13T08:48:30.348Z"
-      },
-      {
-          "name": "chart-relation",
-          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/chart-relation.png",
-          "themePackage": "",
-          "title": "关系图",
-          "categories": [
-              "图表"
-          ],
-          "source": {
-              "type": "npm",
-              "npm": "@kodesign/chart-relation-block",
-              "version": "1.3.2",
-              "registry": "http://registry.npmjs.com",
-              "sourceCodeDirectory": "src/"
-          },
-          "homepage": "",
-          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/chart-relation",
-          "publishTime": "2018-12-13T08:48:27.377Z",
-          "updateTime": "2018-12-13T08:48:30.348Z"
-      },
-      {
-          "name": "circle-progress",
-          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/circle-progress.png",
-          "title": "环形进度条",
-          "categories": [
-              "数据展示"
-          ],
-          "themePackage": "",
-          "source": {
-              "type": "npm",
-              "npm": "@kodesign/circle-progress-block",
-              "version": "1.3.2",
-              "registry": "http://registry.npmjs.com",
-              "sourceCodeDirectory": "src/"
-          },
-          "homepage": "",
-          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/circle-progress",
-          "publishTime": "2018-12-13T08:48:27.377Z",
-          "updateTime": "2018-12-13T08:48:30.348Z"
-      },
-      {
-          "name": "footer-links",
-          "title": "底部链接",
-          "categories": [
-              "信息展示",
-              "欢迎页"
-          ],
-          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/footer-links.png",
-          "source": {
-              "type": "npm",
-              "npm": "@kodesign/footer-links-block",
-              "version": "1.3.2",
-              "registry": "http://registry.npmjs.com",
-              "sourceCodeDirectory": "src/"
-          },
-          "homepage": "",
-          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/footer-links",
-          "publishTime": "2018-12-13T08:48:27.377Z",
-          "updateTime": "2018-12-13T08:48:30.348Z"
-      },
-      {
-          "name": "block-markdown",
-          "title": "markdown 简介",
-          "categories": [
-              "文本编辑"
-          ],
-          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/markdown.png",
-          "source": {
-              "type": "npm",
-              "npm": "@kodesign/block-markdown",
-              "version": "1.2.1",
-              "registry": "http://registry.npmjs.com",
-              "sourceCodeDirectory": "src/"
-          },
-          "homepage": "",
-          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/markdown",
-          "publishTime": "2018-12-13T08:48:27.377Z",
-          "updateTime": "2018-12-13T08:48:30.348Z"
-      },
-      {
-          "name": "signup-form",
-          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/signup-form.png",
-          "themePackage": "",
-          "title": "登录表单",
-          "categories": [
-              "表单"
-          ],
-          "source": {
-              "type": "npm",
-              "npm": "@kodesign/signup-form-block",
-              "version": "1.3.2",
-              "registry": "http://registry.npmjs.com",
-              "sourceCodeDirectory": "src/"
-          },
-          "homepage": "",
-          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/signup-form",
-          "publishTime": "2018-12-13T08:48:27.377Z",
-          "updateTime": "2018-12-13T08:48:30.348Z"
-      },
-      {
-          "name": "tab-dialog",
-          "title": "标签内容弹窗",
-          "categories": [
-              "模态框"
-          ],
-          "screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/tab-dialog.png",
-          "themePackage": "@icedesign/skin",
-          "source": {
-              "type": "npm",
-              "npm": "@kodesign/tab-dialog-block",
-              "version": "1.3.2",
-              "registry": "http://registry.npmjs.com",
-              "sourceCodeDirectory": "src/"
-          },
-          "homepage": "",
-          "repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/tab-dialog",
-          "publishTime": "2018-12-13T08:48:27.377Z",
-          "updateTime": "2018-12-13T08:48:30.348Z"
-      }
-  ],
-    "layouts": [
-      {
-        "name": "blank-layout",
-        "title": "空白布局",
-        "source": {
-          "type": "npm",
-          "npm": "@kodesign/blank-layout",
-          "version": "0.1.5",
-          "registry": "http://registry.npmjs.com",
-          "sourceCodeDirectory": "src/"
-        },
-        "dependencies": {
-          "classnames": "^2.2.5",
-          "prop-types": "^15.5.8"
-        },
-        "screenshot": "https://img.alicdn.com/tfs/TB1T65abVOWBuNjy0FiXXXFxVXa-2840-1596.png",
-        "categories": [
-          "布局"
-        ],
-        "features": {
-          "useComponents": [
-            {
-              "basePackage": "@kodesign/layout",
-              "className": "Layout"
-            }
-          ]
-        },
-        "description": "完全空白的布局，通常用来做首页、产品介绍或者登陆页面。推荐使用登陆页分类下的区块。",
-        "thumbnail": "https://gw.alicdn.com/tfs/TB1SvQmlsLJ8KJjy0FnXXcFDpXa-976-974.png",
-        "repository": "https://github.com/alibaba/ice",
-        "publishTime": "2018-02-06T09:24:12.391Z",
-        "updateTime": "2018-11-15T04:40:16.704Z"
-      }
-    ],
-    "scaffolds":[
-      {
-        "name": "ice-customer-analysis-admin",
-        "title": "客源分析管理系统",
-        "source": {
-          "type": "npm",
-          "npm": "@icedesign/customer-analysis-admin-scaffold",
-          "version": "1.0.0",
-          "registry": "http://registry.npmjs.com"
-        },
-        "dependencies": {
-          "bizcharts": "^3.2.2",
-          "classnames": "^2.2.5",
-          "foundation-symbol": "^0.1.0",
-          "prop-types": "^15.5.8",
-          "react": "^16.4.1",
-          "react-dom": "^16.4.1",
-          "react-router-dom": "^4.2.2"
-        },
-        "devDependencies": {
-          "babel-eslint": "^8.0.3",
-          "eslint": "^4.13.1",
-          "eslint-config-airbnb": "^16.1.0",
-          "eslint-plugin-babel": "^4.1.1",
-          "eslint-plugin-import": "^2.8.0",
-          "eslint-plugin-jsx-a11y": "^6.0.3",
-          "eslint-plugin-react": "^7.5.1",
-          "ice-scripts": "^1.7.1"
-        },
-        "screenshot": "https://img.alicdn.com/tfs/TB1V.FZg3TqK1RjSZPhXXXfOFXa-2860-1520.png",
-        "categories": [
-          "行业领域"
-        ],
-        "features": {},
-        "homepage": "https://alibaba.github.io/ice/scaffold-preview/ice-customer-analysis-admin/index.html",
-        "description": "该模板内置了丰富的图表和表格区块，适用于客源分析管理类系统，使用时需要根据需求进行删除和添加",
-        "publishTime": "2018-10-11T08:16:13.445Z",
-        "updateTime": "2018-11-15T04:41:17.877Z"
-      }
-    ]
-  }
+[
+	{
+		"name": "ability-introduction",
+		"title": "产品能力介绍",
+		"categories": [
+			"信息展示"
+		],
+		"screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/ability-introduction.png",
+		"source": {
+			"type": "npm",
+			"npm": "@kodesign/ability-introduction-block",
+			"version": "1.3.2",
+			"registry": "http://registry.npmjs.com",
+			"sourceCodeDirectory": "src/"
+		},
+		"homepage": "",
+		"repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/ability-introduction-block",
+		"publishTime": "2018-12-13T08:48:27.377Z",
+		"updateTime": "2018-12-13T08:48:30.348Z"
+	},
+	{
+		"name": "about",
+		"title": "关于",
+		"categories": [
+			"信息展示"
+		],
+		"screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/about.png",
+		"source": {
+			"type": "npm",
+			"npm": "@kodesign/about",
+			"version": "1.5.2",
+			"registry": "http://registry.npmjs.com",
+			"sourceCodeDirectory": "src/"
+		},
+		"homepage": "",
+		"repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/about",
+		"publishTime": "2018-12-13T08:48:27.377Z",
+		"updateTime": "2018-12-13T08:48:30.348Z"
+	},
+	{
+		"name": "area-stack-chart",
+		"screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/area-stack-chart.png",
+		"themePackage": "",
+		"title": "叠加面积图",
+		"categories": [
+			"图表"
+		],
+		"source": {
+			"type": "npm",
+			"npm": "@kodesign/area-stack-chart-block",
+			"version": "1.3.2",
+			"registry": "http://registry.npmjs.com",
+			"sourceCodeDirectory": "src/"
+		},
+		"homepage": "",
+		"repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/area-stack-chart",
+		"publishTime": "2018-12-13T08:48:27.377Z",
+		"updateTime": "2018-12-13T08:48:30.348Z"
+	},
+	{
+		"name": "article-list",
+		"screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/article-list.png",
+		"themePackage": "",
+		"title": "文章列表",
+		"categories": [
+			"信息展示"
+		],
+		"source": {
+			"type": "npm",
+			"npm": "@kodesign/article-list-block",
+			"version": "1.3.2",
+			"registry": "http://registry.npmjs.com",
+			"sourceCodeDirectory": "src/"
+		},
+		"homepage": "",
+		"repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/article-list",
+		"publishTime": "2018-12-13T08:48:27.377Z",
+		"updateTime": "2018-12-13T08:48:30.348Z"
+	},
+	{
+		"name": "bar-line-chart",
+		"screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/bar-line-chart.png",
+		"title": "折柱混合图",
+		"categories": [
+			"图表"
+		],
+		"themePackage": "",
+		"source": {
+			"type": "npm",
+			"npm": "@kodesign/bar-line-chart-block",
+			"version": "1.3.2",
+			"registry": "http://registry.npmjs.com",
+			"sourceCodeDirectory": "src/"
+		},
+		"homepage": "",
+		"repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/bar-line-chart",
+		"publishTime": "2018-12-13T08:48:27.377Z",
+		"updateTime": "2018-12-13T08:48:30.348Z"
+	},
+	{
+		"name": "brand-display",
+		"screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/brand-display.png",
+		"themePackage": "",
+		"title": "品牌列表展示",
+		"categories": [
+			"信息展示",
+			"欢迎页"
+		],
+		"source": {
+			"type": "npm",
+			"npm": "@kodesign/brand-display-block",
+			"version": "1.3.2",
+			"registry": "http://registry.npmjs.com",
+			"sourceCodeDirectory": "src/"
+		},
+		"homepage": "",
+		"repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/brand-display",
+		"publishTime": "2018-12-13T08:48:27.377Z",
+		"updateTime": "2018-12-13T08:48:30.348Z"
+	},
+	{
+		"name": "brand-list",
+		"screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/brand-list.png",
+		"title": "品牌列表",
+		"categories": [
+			"信息展示"
+		],
+		"themePackage": "",
+		"source": {
+			"type": "npm",
+			"npm": "@kodesign/brand-list-block",
+			"version": "1.3.2",
+			"registry": "http://registry.npmjs.com",
+			"sourceCodeDirectory": "src/"
+		},
+		"homepage": "",
+		"repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/brand-list",
+		"publishTime": "2018-12-13T08:48:27.377Z",
+		"updateTime": "2018-12-13T08:48:30.348Z"
+	},
+	{
+		"name": "change-password-form",
+		"screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/change-password-form.png",
+		"title": "修改密码表单",
+		"categories": [
+			"表单"
+		],
+		"themePackage": "",
+		"source": {
+			"type": "npm",
+			"npm": "@kodesign/change-password-form-block",
+			"version": "1.3.2",
+			"registry": "http://registry.npmjs.com",
+			"sourceCodeDirectory": "src/"
+		},
+		"homepage": "",
+		"repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/change-password-form",
+		"publishTime": "2018-12-13T08:48:27.377Z",
+		"updateTime": "2018-12-13T08:48:30.348Z"
+	},
+	{
+		"name": "chart-pie",
+		"screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/chart-pie.png",
+		"themePackage": "",
+		"title": "饼图",
+		"categories": [
+			"图表"
+		],
+		"source": {
+			"type": "npm",
+			"npm": "@kodesign/chart-pie-block",
+			"version": "1.3.2",
+			"registry": "http://registry.npmjs.com",
+			"sourceCodeDirectory": "src/"
+		},
+		"homepage": "",
+		"repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/chart-pie",
+		"publishTime": "2018-12-13T08:48:27.377Z",
+		"updateTime": "2018-12-13T08:48:30.348Z"
+	},
+	{
+		"name": "chart-relation",
+		"screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/chart-relation.png",
+		"themePackage": "",
+		"title": "关系图",
+		"categories": [
+			"图表"
+		],
+		"source": {
+			"type": "npm",
+			"npm": "@kodesign/chart-relation-block",
+			"version": "1.3.2",
+			"registry": "http://registry.npmjs.com",
+			"sourceCodeDirectory": "src/"
+		},
+		"homepage": "",
+		"repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/chart-relation",
+		"publishTime": "2018-12-13T08:48:27.377Z",
+		"updateTime": "2018-12-13T08:48:30.348Z"
+	},
+	{
+		"name": "circle-progress",
+		"screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/circle-progress.png",
+		"title": "环形进度条",
+		"categories": [
+			"数据展示"
+		],
+		"themePackage": "",
+		"source": {
+			"type": "npm",
+			"npm": "@kodesign/circle-progress-block",
+			"version": "1.3.2",
+			"registry": "http://registry.npmjs.com",
+			"sourceCodeDirectory": "src/"
+		},
+		"homepage": "",
+		"repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/circle-progress",
+		"publishTime": "2018-12-13T08:48:27.377Z",
+		"updateTime": "2018-12-13T08:48:30.348Z"
+	},
+	{
+		"name": "footer-links",
+		"title": "底部链接",
+		"categories": [
+			"信息展示",
+			"欢迎页"
+		],
+		"screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/footer-links.png",
+		"source": {
+			"type": "npm",
+			"npm": "@kodesign/footer-links-block",
+			"version": "1.3.2",
+			"registry": "http://registry.npmjs.com",
+			"sourceCodeDirectory": "src/"
+		},
+		"homepage": "",
+		"repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/footer-links",
+		"publishTime": "2018-12-13T08:48:27.377Z",
+		"updateTime": "2018-12-13T08:48:30.348Z"
+	},
+	{
+		"name": "markdown",
+		"title": "markdown 简介",
+		"categories": [
+			"文本编辑"
+		],
+		"screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/markdown.png",
+		"source": {
+			"type": "npm",
+			"npm": "@kodesign/markdown",
+			"version": "1.5.2",
+			"registry": "http://registry.npmjs.com",
+			"sourceCodeDirectory": "src/"
+		},
+		"homepage": "",
+		"repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/markdown",
+		"publishTime": "2018-12-13T08:48:27.377Z",
+		"updateTime": "2018-12-13T08:48:30.348Z"
+	},
+	{
+		"name": "signup-form",
+		"screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/signup-form.png",
+		"themePackage": "",
+		"title": "登录表单",
+		"categories": [
+			"表单"
+		],
+		"source": {
+			"type": "npm",
+			"npm": "@kodesign/signup-form-block",
+			"version": "1.3.2",
+			"registry": "http://registry.npmjs.com",
+			"sourceCodeDirectory": "src/"
+		},
+		"homepage": "",
+		"repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/signup-form",
+		"publishTime": "2018-12-13T08:48:27.377Z",
+		"updateTime": "2018-12-13T08:48:30.348Z"
+	},
+	{
+		"name": "tab-dialog",
+		"title": "标签内容弹窗",
+		"categories": [
+			"模态框"
+		],
+		"screenshot": "https://raw.githubusercontent.com/dtux-kangaroo/roo-config/master/block-covers/tab-dialog.png",
+		"themePackage": "@icedesign/skin",
+		"source": {
+			"type": "npm",
+			"npm": "@kodesign/tab-dialog-block",
+			"version": "1.3.2",
+			"registry": "http://registry.npmjs.com",
+			"sourceCodeDirectory": "src/"
+		},
+		"homepage": "",
+		"repository": "https://github.com/dtux-kangaroo/ko-resouce/tree/master/react-resource/blocks/tab-dialog",
+		"publishTime": "2018-12-13T08:48:27.377Z",
+		"updateTime": "2018-12-13T08:48:30.348Z"
+	}
+]
