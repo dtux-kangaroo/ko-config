@@ -1,8 +1,8 @@
 [
   {
-    "name":"pc-react-redux-ant",
-    "url":"github:dtux-kangaroo/pc-react-ant.design",
-    "description":"基于react、redux和ant.design的pc项目"
+    "name":"pc-react-sample",
+    "url":"github:dtux-kangaroo/pc-react-sample",
+    "description":"基于react、webpack4，babe7的简单pc项目"
   },
    {
     "name":"pc-react-pwa",
