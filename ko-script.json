@@ -3,5 +3,26 @@
     "name":"pc-react-sample",
     "url":"github:dtux-kangaroo/pc-react-sample",
     "description":"基于react、webpack4，babe7的简单pc项目"
+  },
+  {
+    "name":"pc-react-redux-ant",
+    "url":"github:dtux-kangaroo/pc-react-ant.design",
+    "description":"基于react、redux和ant.design的pc项目"
+  },
+  {
+    "name":"pc-vue-element",
+    "url":"github:dtux-kangaroo/pc-vue-element",
+    "description":"基于vue和element的pc项目"
+  },
+  {
+    "name":"mobile-react-ant.mobile",
+    "url":"github:dtux-kangaroo/mobile-react-ant.mobile",
+    "description":"基于react和ant.mobile的移动端项目"
+  },
+   {
+    "name":"mobile-react-ant.mobile",
+    "url":"github:dtux-kangaroo/mobile-react-ant.mobile",
+    "description":"基于react和ant.mobile的移动端项目"
   }
+
 ]
