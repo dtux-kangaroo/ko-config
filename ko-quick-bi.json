@@ -8,20 +8,14 @@
    {
     "id":"2",
     "name":"贵州烟草",
-    "url":"github:dtux-kangaroo/pc-react-pwa",
+    "url":"https://juejin.im/",
     "description":"贵州烟草数据报表"
   },
   {
     "id":"3",
     "name":"四川烟草",
-    "url":"https://github.com/dtux-kangaroo/ko-config/edit/master/ko-quick-bi.json",
+    "url":"https://qiye.aliyun.com/alimail/auth/login?reurl=%2Falimail%2F%23h%3DWyJmbV8yIixbIjIiLCIiLHsiZklkIjoiMiIsInNlbElkIjoiMl8wOkR6enp6eWM0UVhDJC0tLS43LXNZUnNGIiwib2Zmc2V0IjowLCJyZyI6W1siMiIseyJpZCI6Im0hMl8wOkR6enp6eWM0UVhDJC0tLS43LXNZUnNGIiwic2YiOjB9XV19LHsibGFiZWwiOiLpgq7ku7YifV1d",
     "description":"四川烟草数据报表"
-  },
-  {
-    "id":"4",
-    "name":"重庆烟草",
-    "url":"http://140.143.235.164:8080/zentao/doc-create-5.html",
-    "description":"重庆烟草数据报表"
   },
   {
     "id":"5",
