@@ -1,37 +1,32 @@
 [
   {
     "name":"云南烟草",
-    "url":"github:dtux-kangaroo/pc-react-ant.design",
+    "id":"1",
+    "url":"https://datav.aliyun.com/share/7bc00be57740d2d790e46aeb8b274226",
     "description":"云南烟草数据报表"
   },
    {
+    "id":"2",
     "name":"贵州烟草",
     "url":"github:dtux-kangaroo/pc-react-pwa",
     "description":"贵州烟草数据报表"
   },
   {
+    "id":"3",
     "name":"四川烟草",
-    "url":":github:dtux-kangaroo/pc-react-mobx-ant",
+    "url":"https://github.com/dtux-kangaroo/ko-config/edit/master/ko-quick-bi.json",
     "description":"四川烟草数据报表"
   },
   {
+    "id":"4",
     "name":"重庆烟草",
-    "url":"github:dtux-kangaroo/pc-vue-element",
+    "url":"http://140.143.235.164:8080/zentao/doc-create-5.html",
     "description":"重庆烟草数据报表"
   },
   {
+    "id":"5",
     "name":"北京烟草",
-    "url":"github:dtux-kangaroo/mobile-react-ant.mobile",
+    "url":"https://www.baidu.com/",
     "description":"北京烟草数据报表"
-  },
-  {
-    "name":"上海烟草",
-    "url":"github:dtux-kangaroo/mobile-vue-vux",
-    "description":"上海烟草数据报表"
-  },
-  {
-    "name":"杭州烟草",
-    "url":"github:dtux-kangaroo/applet-mpvue",
-    "description":"杭州烟草数据报表"
   }
 ]
