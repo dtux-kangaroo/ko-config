@@ -1,26 +1,38 @@
 [
   {
-    "name":"云南烟草",
+    "name":"实时大屏",
     "id":"1",
-    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=b2ae705e-34f7-402a-9f0d-1745a9abd2f8&accessToken=78a049c7b0e845e8d57cf42450107c76",
-    "description":"云南烟草数据报表"
+    "url":" https://datav.aliyun.com/share/1a6aa53edad11a08c34eb3e69a616d84",
+    "description":"实时大屏"
   },
    {
     "id":"2",
-    "name":"贵州烟草",
-    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=a86c5197-8588-4f70-95d1-bf5014b0ff93&accessToken=fde032d8d29e359f3d09fb567b8499ff",
-    "description":"贵州烟草数据报表"
+    "name":"专题概览",
+    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=4a2c1cdc-3cd5-4f4a-a943-2db341664926&accessToken=a673b5fe3479b8378d6ad2d5d9fb8d66",
+    "description":"专题概览"
   },
   {
     "id":"3",
-    "name":"四川烟草",
-    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=8aad877c-c409-48e0-9736-ec7bb5cd0bae&accessToken=467fb89c721f229375830b6cc7f34cc1",
-    "description":"四川烟草数据报表"
+    "name":"扫码专题",
+    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=60ed4d64-bb9c-4347-92b2-ff6fe1c555a4&accessToken=3b04203c083db35eb970821fd960a7d0",
+    "description":"扫码专题"
   },
   {
     "id":"5",
-    "name":"北京烟草",
-    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=402fe9e7-b33c-4109-a7d6-9150be3af51f&accessToken=1ac69086b394cd13a461f3def15dc465",
-    "description":"北京烟草数据报表"
+    "name":"用户专题",
+    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=40885c37-4093-419d-b4af-f496a2c529e8&accessToken=454d3c130e1db6d48180f7f763520d09",
+    "description":"用户专题"
+  },
+  {
+    "id":"5",
+    "name":"积分专题",
+    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=98cfc3e1-3c55-4c92-b98d-a894458fdf22&accessToken=87481fb8e9b5a3871006f2a127ce003b",
+    "description":"积分专题"
+  },
+  {
+    "id":"5",
+    "name":"活动专题",
+    "url":" https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=f1fe56ca-a3e1-47e0-b5e9-f5103c98b7f8&accessToken=192cc44df304a136fc3d3ef0b100d3a1",
+    "description":"活动专题"
   }
 ]
