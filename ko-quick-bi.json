@@ -2,25 +2,25 @@
   {
     "name":"云南烟草",
     "id":"1",
-    "url":"https://datav.aliyun.com/share/7bc00be57740d2d790e46aeb8b274226",
+    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=b2ae705e-34f7-402a-9f0d-1745a9abd2f8&accessToken=78a049c7b0e845e8d57cf42450107c76",
     "description":"云南烟草数据报表"
   },
    {
     "id":"2",
     "name":"贵州烟草",
-    "url":"https://ant.design/components/tabs-cn/",
+    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=a86c5197-8588-4f70-95d1-bf5014b0ff93&accessToken=fde032d8d29e359f3d09fb567b8499ff",
     "description":"贵州烟草数据报表"
   },
   {
     "id":"3",
     "name":"四川烟草",
-    "url":"https://qiye.aliyun.com/alimail/auth/login?reurl=%2Falimail%2F%23h%3DWyJmbV8yIixbIjIiLCIiLHsiZklkIjoiMiIsInNlbElkIjoiMl8wOkR6enp6eWM0UVhDJC0tLS43LXNZUnNGIiwib2Zmc2V0IjowLCJyZyI6W1siMiIseyJpZCI6Im0hMl8wOkR6enp6eWM0UVhDJC0tLS43LXNZUnNGIiwic2YiOjB9XV19LHsibGFiZWwiOiLpgq7ku7YifV1d",
+    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=8aad877c-c409-48e0-9736-ec7bb5cd0bae&accessToken=467fb89c721f229375830b6cc7f34cc1",
     "description":"四川烟草数据报表"
   },
   {
     "id":"5",
     "name":"北京烟草",
-    "url":"https://www.baidu.com/",
+    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=402fe9e7-b33c-4109-a7d6-9150be3af51f&accessToken=1ac69086b394cd13a461f3def15dc465",
     "description":"北京烟草数据报表"
   }
 ]
