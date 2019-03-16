@@ -14,7 +14,7 @@
   {
     "id":"3",
     "name":"扫码专题",
-    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=dc9fcf09-5393-4990-9225-38e216ac10c3&accessToken=1ecf79c003cb73d993a2f6e2e8717af6",
+    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=dc9fcf09-5393-4990-9225-38e216ac10c3&accessToken=f3973bf5a0e74e800b37520dad603d65",
     "description":"扫码专题"
   },
   {
@@ -28,11 +28,5 @@
     "name":"积分专题",
     "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=98cfc3e1-3c55-4c92-b98d-a894458fdf22&accessToken=87481fb8e9b5a3871006f2a127ce003b",
     "description":"积分专题"
-  },
-  {
-    "id":"6",
-    "name":"活动专题",
-    "url":" https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=f1fe56ca-a3e1-47e0-b5e9-f5103c98b7f8&accessToken=192cc44df304a136fc3d3ef0b100d3a1",
-    "description":"活动专题"
   }
 ]
