@@ -28,5 +28,11 @@
     "name":"积分专题",
     "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=98cfc3e1-3c55-4c92-b98d-a894458fdf22&accessToken=87481fb8e9b5a3871006f2a127ce003b",
     "description":"积分专题"
+  },
+  {
+    "id":"6",
+    "name":"百度",
+    "url":"http://www.baidu.com",
+    "description":"积分专题"
   }
 ]
