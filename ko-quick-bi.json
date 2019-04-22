@@ -28,5 +28,11 @@
     "name":"积分专题",
     "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=0f42cc4e-eae4-45e3-a15e-00758926485d&accessToken=049f4f6372ab1d6517b4b116b039fb86",
     "description":"积分专题"
+  },
+  {
+    "id":"6",
+    "name":"通用查询",
+    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=d5e6204b-c5c5-4b6a-89de-0ceac9023c34&accessToken=236e72fa6e8901046fdbb015ea000ecc",
+    "description":"通用查询"
   }
 ]
