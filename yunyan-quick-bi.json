@@ -1,5 +1,5 @@
 {
-biData:[
+ "biData":[
   {
     "name":"实时大屏",
     "id":"1",
@@ -37,5 +37,5 @@ biData:[
     "description":"通用查询"
   }
   ],
-  version:"V1.0.2"
+  "version":"V1.0.2"
 }
