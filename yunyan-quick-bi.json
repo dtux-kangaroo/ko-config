@@ -1,2 +1,41 @@
 {
+biData:[
+  {
+    "name":"实时大屏",
+    "id":"1",
+    "url":" https://datav.aliyun.com/share/1a6aa53edad11a08c34eb3e69a616d84",
+    "description":"实时大屏"
+  },
+   {
+    "id":"2",
+    "name":"专题概览",
+    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=de81aaf6-bd55-40a7-9325-8e973b856372&accessToken=97a02e73db3629ba832de40b1fbe6774",
+    "description":"专题概览"
+  },
+  {
+    "id":"3",
+    "name":"扫码专题",
+    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=221b4743-ea2d-45b2-9ef7-a63a23f98ff8&accessToken=01edd78abd3829d31aec6e4955bc1583",
+    "description":"扫码专题"
+  },
+  {
+    "id":"4",
+    "name":"用户专题",
+    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=38232d24-d220-4778-9744-cb9e4facc791&accessToken=bf9d990d6ced3bf28ea30a83c7483941",
+    "description":"用户专题"
+  },
+  {
+    "id":"5",
+    "name":"积分专题",
+    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=0f42cc4e-eae4-45e3-a15e-00758926485d&accessToken=049f4f6372ab1d6517b4b116b039fb86",
+    "description":"积分专题"
+  },
+  {
+    "id":"6",
+    "name":"通用查询",
+    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=d5e6204b-c5c5-4b6a-89de-0ceac9023c34&accessToken=236e72fa6e8901046fdbb015ea000ecc",
+    "description":"通用查询"
+  }
+  ],
+  version:"V1.0.2"
 }
