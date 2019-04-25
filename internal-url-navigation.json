@@ -1,0 +1,9 @@
+[{
+  "groupName":"工具地址",
+  "children":[{
+    "name":"Jenkins",
+    "desc":"自动化神器",
+    "url":"http://172.16.10.90:8080",
+    "remark":"用户名：admin\n密码：123456"
+  }]
+}]
