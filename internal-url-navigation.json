@@ -1,9 +1,37 @@
 [{
   "groupName":"工具地址",
   "children":[{
+    "name":"Email",
+    "desc":"公司邮箱",
+    "url":"http://mail.dtstack.com/"
+  },{
+    "name":"Gitlab",
+    "desc":"git仓库",
+    "url":"http://git.dtstack.cn"
+  },{
+    "name":"Confluece",
+    "desc":"团队知识库",
+    "url":"http://confluence.dev.dtstack.cn"
+  },{
+    "name":"Nexus",
+    "desc":"Maven私服",
+    "url":"http://nexus.dev.dtstack.cn/nexus/"
+  },{
+    "name":"Redmine",
+    "desc":"缺陷管理",
+    "url":"http://redmine.prod.dtstack.cn/"
+  },{
     "name":"Jenkins",
     "desc":"自动化神器",
     "url":"http://172.16.10.90:8080",
     "remark":"用户名：admin\n密码：123456"
+  },{
+    "name":"瓦力部署",
+    "desc":"部署神器",
+    "url":"http://172.16.8.118"
+  },{
+    "name":"TestLink",
+    "desc":"测试用例管理",
+    "url":"http://172.16.8.118:8080/testlink"
   }]
 }]
