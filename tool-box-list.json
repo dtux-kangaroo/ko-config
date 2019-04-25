@@ -1,7 +1,4 @@
 [{
-  "groupName":"常用工具",
-  "children":[{
-    "name":"加解密",
-    "url":"https://www.cmd5.com/"
-  }]
+  "name":"加解密",
+  "url":"https://www.cmd5.com/"
 }]
