@@ -34,4 +34,11 @@
     "desc":"测试用例管理",
     "url":"http://172.16.8.118:8080/testlink"
   }]
+},{
+  "groupName":"产品项目",
+  "children":[{
+    "name":"DT-UIC",
+    "desc":"袋鼠云用户中心",
+    "url":"http://172.16.10.61/#/tenant/list"
+  }]
 }]
