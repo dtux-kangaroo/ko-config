@@ -1,2 +1,2 @@
-# roo-config
-配置仓库，如有添加配置的疑问请联系长卿同学（changqing@dtstack.com）。
+# ko-config
+前端静态资源存放地址，请遵循相关数据格式，不可擅自修改。

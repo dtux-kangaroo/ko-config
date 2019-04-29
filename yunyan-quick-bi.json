@@ -1,4 +1,5 @@
-[
+{
+ "biData":[
   {
     "name":"实时大屏",
     "id":"1",
@@ -34,5 +35,13 @@
     "name":"通用查询",
     "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=d5e6204b-c5c5-4b6a-89de-0ceac9023c34&accessToken=236e72fa6e8901046fdbb015ea000ecc",
     "description":"通用查询"
+  },
+  {
+   "id":"7",
+   "name":"区域活动",
+   "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=f2319b89-9d5c-4941-9bf7-f9e1c751d21e&accessToken=e3f383c933642c92af5203204233705f",
+   "description":"区域活动"
   }
-]
+  ],
+  "version":"V1.0.3"
+}
