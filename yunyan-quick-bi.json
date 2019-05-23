@@ -53,7 +53,25 @@
    "name":"区域活动",
    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=f2319b89-9d5c-4941-9bf7-f9e1c751d21e&accessToken=d00dcf7d84d974a57e1f2ed9e45305b9",
    "description":"区域活动"
-  }
+  },
+  {
+   "id":"10",
+   "name":"供应商资源分析",
+   "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=51fc1f26-9100-48d4-a915-7459e687248f&accessToken=e631049e87c4d91567154773adab97a0",
+   "description":"供应商资源分析"
+  },
+  {
+   "id":"11",
+   "name":"异常码分析",
+   "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=51fc1f26-9100-48d4-a915-7459e687248f&accessToken=e631049e87c4d91567154773adab97a0",
+   "description":"异常码分析"
+  },
+   {
+   "id":"12",
+   "name":"新品分析",
+   "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=d5f5e22e-3af5-4dff-8f52-04ac7b237e93&accessToken=78a4c587c827b8a95e6be686e3830c1f",
+   "description":"新品分析"
+   }
   ],
-  "version":"V1.0.4"
+  "version":"V1.0.6"
 }
