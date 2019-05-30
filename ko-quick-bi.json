@@ -1,4 +1,5 @@
 [
+  
   {
     "name":"实时大屏",
     "id":"1",
@@ -6,33 +7,69 @@
     "description":"实时大屏"
   },
    {
+    "name":"区域活动大屏",
     "id":"2",
+    "url":"http://datav.aliyun.com/share/34f045ff2add4192c36d5557726a09d3",
+    "description":"区域活动大屏"
+  },
+   {
+    "name":"四川工商互联大屏",
+    "id":"3",
+    "url":"http://datav.aliyun.com/share/c811761ec8ffad7438873b0e894d330b",
+    "description":"四川工商互联大屏"
+  },
+   {
+    "id":"4",
     "name":"专题概览",
-    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=de81aaf6-bd55-40a7-9325-8e973b856372&accessToken=97a02e73db3629ba832de40b1fbe6774",
+    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=de81aaf6-bd55-40a7-9325-8e973b856372&accessToken=e76e39480b454ff1d6dcf4eec302972d",
     "description":"专题概览"
   },
   {
-    "id":"3",
+    "id":"5",
     "name":"扫码专题",
-    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=221b4743-ea2d-45b2-9ef7-a63a23f98ff8&accessToken=01edd78abd3829d31aec6e4955bc1583",
+    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=221b4743-ea2d-45b2-9ef7-a63a23f98ff8&accessToken=bf62dfce42f94b4e55b2ee63b510a2ac",
     "description":"扫码专题"
   },
   {
-    "id":"4",
+    "id":"6",
     "name":"用户专题",
-    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=38232d24-d220-4778-9744-cb9e4facc791&accessToken=bf9d990d6ced3bf28ea30a83c7483941",
+    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=38232d24-d220-4778-9744-cb9e4facc791&accessToken=1f84eac4171024f6c5ff765520678e6a",
     "description":"用户专题"
   },
   {
-    "id":"5",
+    "id":"7",
     "name":"积分专题",
-    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=0f42cc4e-eae4-45e3-a15e-00758926485d&accessToken=049f4f6372ab1d6517b4b116b039fb86",
+    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=0f42cc4e-eae4-45e3-a15e-00758926485d&accessToken=0e43cd45597ef89aec0bc3089cd844fb",
     "description":"积分专题"
   },
   {
-    "id":"6",
+    "id":"8",
     "name":"通用查询",
-    "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=d5e6204b-c5c5-4b6a-89de-0ceac9023c34&accessToken=236e72fa6e8901046fdbb015ea000ecc",
+    "url":"https://das.base.shuju.aliyun.com/product/view.htm?spm=0.0.0.0.IirdKz&productId=31cac828-c73f-43f7-adb0-74cf51bd8c52&menuId=c81aeaf9-c834-45bd-8471-63ac097d0a37",
     "description":"通用查询"
-  }
+  },
+  {
+   "id":"9",
+   "name":"区域活动",
+   "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=f2319b89-9d5c-4941-9bf7-f9e1c751d21e&accessToken=d00dcf7d84d974a57e1f2ed9e45305b9",
+   "description":"区域活动"
+  },
+  {
+   "id":"10",
+   "name":"供应商资源分析",
+   "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=51fc1f26-9100-48d4-a915-7459e687248f&accessToken=e631049e87c4d91567154773adab97a0",
+   "description":"供应商资源分析"
+  },
+  {
+   "id":"11",
+   "name":"异常码分析",
+   "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=3f513e16-f98a-4489-ba9a-ed0b96ba3f9b&accessToken=6f1dd24babf9879a5f4edf200f1c7960",
+   "description":"异常码分析"
+  },
+   {
+   "id":"12",
+   "name":"新品分析",
+   "url":"https://das.base.shuju.aliyun.com/token3rd/dashboard/view/pc.htm?pageId=d5f5e22e-3af5-4dff-8f52-04ac7b237e93&accessToken=78a4c587c827b8a95e6be686e3830c1f",
+   "description":"新品分析"
+   }
 ]
