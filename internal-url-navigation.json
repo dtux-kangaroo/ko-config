@@ -86,7 +86,7 @@
     "name":"DT-STORE",
     "desc":"零售参谋",
     "url":"http://172.16.8.170:3200"
-  },
+  }]},
   {
   "groupName":"ko-team",
   "children":[{
