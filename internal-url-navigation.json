@@ -86,5 +86,13 @@
     "name":"DT-STORE",
     "desc":"零售参谋",
     "url":"http://172.16.8.170:3200"
-  }]
+  },
+  {
+  "groupName":"ko-team",
+  "children":[{
+    "name":"Kangaroo",
+    "desc":"资源预览",
+    "url":"https://dtux-kangaroo.github.io/ko-resouce/react/#/"
+  }
+   ]
 }]
