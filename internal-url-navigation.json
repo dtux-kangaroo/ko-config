@@ -33,6 +33,10 @@
     "name":"TestLink",
     "desc":"测试用例管理",
     "url":"http://172.16.8.118:8080/testlink"
+  },{
+    "name":"禅道",
+    "desc":"项目管理软件",
+    "url":"http://172.16.8.194:85"
   }]
 },{
   "groupName":"产品项目",
@@ -86,13 +90,12 @@
     "name":"DT-STORE",
     "desc":"零售参谋",
     "url":"http://172.16.8.170:3200"
-  }]},
-  {
+  }]
+},{
   "groupName":"ko-team",
   "children":[{
     "name":"Kangaroo",
     "desc":"资源预览",
     "url":"https://dtux-kangaroo.github.io/ko-resouce/react/#/"
-  }
-   ]
+  }]
 }]

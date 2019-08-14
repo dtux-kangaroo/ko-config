@@ -22,12 +22,12 @@
    {
     "name":"mobile-react-ant.mobile",
     "url":"github:dtux-kangaroo/mobile-react-ant.mobile",
-    "description":"基于react和ant.mobile的移动端项目" 
+    "description":"基于react和ant.mobile的移动端项目"
   },
   {
     "name":"mobile-vue-mintui",
     "url":"github:dtux-kangaroo/mobile-vue-mintui",
-    "description":"基于vue和mintui的移动端项目" 
+    "description":"基于vue和mintui的移动端项目"
   }
 
 ]
