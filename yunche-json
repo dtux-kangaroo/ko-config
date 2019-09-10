@@ -13,10 +13,6 @@
     "desc":"团队知识库",
     "url":"http://confluence.dev.dtstack.cn"
   },{
-    "name":"Nexus",
-    "desc":"Maven私服",
-    "url":"http://nexus.dev.dtstack.cn/nexus"
-  },{
     "name":"Redmine",
     "desc":"缺陷管理",
     "url":"http://redmine.prod.dtstack.cn"
@@ -42,7 +38,7 @@
   },
     {
     "name":"蓝湖",
-    "desc":"在线文档",
+    "desc":"项目原型",
     "url":"https://lanhuapp.com/web/#/item?cid=&fid=all&tid=7e608a7a-0327-431b-bf8d-72b57f7b3425"
   },
   ]
