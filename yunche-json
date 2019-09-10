@@ -52,53 +52,14 @@
     "name":"DT-UIC",
     "desc":"袋鼠云用户中心",
     "url":"http://172.16.10.61/#/tenant/list"
-  },{
-    "name":"Dingtalk-OA-h5",
-    "desc":"工时系统::H5",
-    "url":"http://172.16.8.170:8778"
-  },{
-    "name":"Dingtalk-OA-Manage",
-    "desc":"工时系统::H5",
-    "url":"http://172.16.8.170:8778"
-  },{
-    "name":"DT-LOGIN",
-    "desc":"用户凭证槽",
-    "url":"http://172.16.10.144:8767"
-  },{
-    "name":"DT-Trace",
-    "desc":"DT-Trace埋点",
-    "url":"http://172.16.8.170:3100"
-  }]
-},{
-  "groupName":"中台项目",
+  },
+  {
+  "groupName":"旅游项目",
   "children":[{
-    "name":"DT-MTC",
-    "desc":"医共体",
-    "url":"http://172.16.8.170:8866"
-  },{
-    "name":"DT-TIANMA",
-    "desc":"厦门天马",
-    "url":"http://172.16.8.170:3000"
-  },{
-    "name":"MaoTai-PW",
-    "desc":"茅台::价格监测",
-    "url":"http://172.16.8.170:8888"
-  },{
-    "name":"MaoTai-BG",
-    "desc":"茅台::品牌卫士",
-    "url":"http://172.16.8.170:8899"
-  },{
-    "name":"DT-vanke",
-    "desc":"万科数据中台",
-    "url":"http://172.16.8.170:8890"
-  }]
-},{
-  "groupName":"新零售",
-  "children":[{
-    "name":"DT-STORE",
-    "desc":"零售参谋",
-    "url":"http://172.16.8.170:3200"
-  }]
+    "name":"良渚门户",
+    "desc":"良渚门户",
+    "url":"http://172.16.10.91:83/#/analyse/visitor"
+  },]
 },{
   "groupName":"ko-team",
   "children":[{
