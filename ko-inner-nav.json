@@ -16,14 +16,14 @@
 				{
 					"abbr": "语雀",
 					"title": "团队知识库",
-					"url": "https://dtstack.yuque.com/vioa64/gvc5nl"
+					"url": "https://dtstack.yuque.com/delivery-center/fuglu0"
 				},
 				{
 					"abbr": "Jenkins",
 					"title": "自动化神器",
-					"url": "http://172.16.10.91:8080/",
-					"pwd": "abc123",
-					"account": "root"
+					"url": "http://172.16.10.90:8080/login?from=%2F",
+					"pwd": "admin",
+					"account": "123456"
 				},
 				{
 					"abbr": "Redmine",
@@ -33,60 +33,70 @@
         {
 					"abbr": "蓝湖",
 					"title": "原型地址",
-					"url": "https://lanhuapp.com/web/#/item?cid=&fid=all&tid=b3438def-f875-4508-a1ce-b3e2689eb53a"
-				},
-		{
-			"abbr": "袋鼠云",
-			"title": "官网地址",
-			"url": "https://www.dtstack.com"
-		}
+					"url": "https://lanhuapp.com/web/#/item"
+				}
 			]
 		},
 		{
-			"title": "产品项目",
+			"title": "开发环境",
 			"abbr": "cpxm",
 			"children": [
+				{
+					"abbr": "liangzhu",
+					"title": "良渚项目",
+					"url": "http://172.16.10.91/",
+					"pwd": "Abc123",
+					"account": "admin@dtstack.com"
+				},
 				{
 					"abbr": "Demonstration-platform",
 					"title": "演示平台",
 					"url": "http://172.16.8.186/",
-					"pwd": "123456",
-					"account": "admin"
+					"pwd": "888888",
+					"account": "binghe"
+				},
+				{
+					"abbr": "shanghai_wangcheng",
+					"title": "上海网程",
+					"url": "http://172.16.8.170:8082",
+					"pwd": "Aa123456",
+					"account": "数据3002"
+				},
+				{
+					"abbr": "ruxin",
+					"title": "如新自助取数",
+					"url": "http://172.16.8.170:8080"
 				}
 			]
 		},
 		{
-			"title": "生产项目",
+			"title": "测试环境",
 			"abbr": "scxm",
 			"children": [
 				{
-					"abbr": "DT-良渚",
-					"title": "良渚一期",
-					"url": "http://47.111.62.9:8080/#/products",
-					"pwd": "123456",
-					"account": "admin",
-					"remark": "按照这个来写--demo"
-        },
-        {
-          	"abbr": "DT-Screen",
-			"title": "良渚大屏",
-			"url": "https://easyv.dtstack.com/workspace",
-			"pwd": "123456",
-			"account": "hzlzgclyfz@163.com"
-        }
-		]},
+					"abbr": "shanghai_wangcheng",
+					"title": "上海网程",
+					"url": "http://36.189.242.134:8082"
+				}
+			]
+		},
 		{
-			"title": "测试项目",
-			"abbr": "csxm",
+			"title": "生产环境",
+			"abbr": "production",
 			"children": [
 				{
 					"abbr": "Dt-liangzhu",
-					"title": "良渚一期",
-					"url": "http://172.16.10.91/#/products",
-					"pwd": "123456",
-					"account": "admin",
+					"title": "良渚",
+					"url": "https://center.lzgcyz.com/#/products",
+					"pwd": "Abc123",
+					"account": "admin@dtstack.com",
 					"remark": "按照这个来写--demo"
 				}
 			]
+		},
+		{
+			"title": "技术博文",
+			"abbr": "csxm",
+			"children": []
 		}
 	]
