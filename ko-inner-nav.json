@@ -34,6 +34,11 @@
 					"abbr": "蓝湖",
 					"title": "原型地址",
 					"url": "https://lanhuapp.com/web/#/item"
+				},
+				{
+					"abbr": "禅道",
+					"title": "项目管理",
+					"url": "http://172.16.8.186:9000/zentao/"
 				}
 			]
 		},
