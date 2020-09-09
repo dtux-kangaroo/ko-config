@@ -44,7 +44,7 @@
 		},
 		{
 			"title": "开发环境",
-			"abbr": "cpxm",
+			"abbr": "develop",
 			"children": [
 				{
 					"abbr": "liangzhu",
@@ -76,7 +76,7 @@
 		},
 		{
 			"title": "测试环境",
-			"abbr": "scxm",
+			"abbr": "test",
 			"children": [
 				{
 					"abbr": "shanghai_wangcheng",
@@ -101,7 +101,7 @@
 		},
 		{
 			"title": "公司产品",
-			"abbr": "csxm",
+			"abbr": "comp_prod",
 			"children": [
 				{
 					"abbr": "EASYV",
