@@ -100,6 +100,28 @@
 			]
 		},
 		{
+			"title": "公司产品",
+			"abbr": "csxm",
+			"children": [
+				{
+					"abbr": "EASYV",
+					"title": "大屏",
+					"url": "http://easyv.test.dtstack.net/",
+					"pwd": "admin123",
+					"account": "admin@dtstack.com",
+					"remark": "本地hosts绑定：#测试环境 172.16.10.70 easyv.test.dtstack.net, #UIC地址 172.16.10.168 dtuic.dtstack.net"
+				},
+				{
+					"abbr": "DTinsight",
+					"title": "数栈",
+					"url": "https://insight.dtstack.com/",
+					"pwd": "",
+					"account": "",
+					"remark": ""
+				}
+			]
+		},
+		{
 			"title": "技术博文",
 			"abbr": "csxm",
 			"children": []
