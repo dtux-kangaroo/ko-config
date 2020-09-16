@@ -1,129 +1,139 @@
 [
-		{
-			"title": "工具地址",
-			"abbr": "tool",
-			"children": [
-				{
-					"abbr": "Email",
-					"title": "公司邮箱",
-					"url": "http://mail.dtstack.com/"
-				},
-				{
-					"abbr": "Gitlab",
-					"title": "Git仓库",
-					"url": "http://gitlab.prod.dtstack.cn/"
-				},
-				{
-					"abbr": "语雀",
-					"title": "团队知识库",
-					"url": "https://dtstack.yuque.com/delivery-center/fuglu0"
-				},
-				{
-					"abbr": "Jenkins",
-					"title": "自动化神器",
-					"url": "http://172.16.10.90:8080/login?from=%2F",
-					"pwd": "admin",
-					"account": "123456"
-				},
-				{
-					"abbr": "Redmine",
-					"title": "缺陷管理",
-					"url": "http://redmine.prod.dtstack.cn/"
-        },
-        {
-					"abbr": "蓝湖",
-					"title": "原型地址",
-					"url": "https://lanhuapp.com/web/#/item"
-				},
-				{
-					"abbr": "禅道",
-					"title": "项目管理",
-					"url": "http://172.16.8.186:9000/zentao/"
-				}
-			]
-		},
-		{
-			"title": "开发环境",
-			"abbr": "develop",
-			"children": [
-				{
-					"abbr": "liangzhu",
-					"title": "良渚项目",
-					"url": "http://172.16.10.91/",
-					"pwd": "Abc123",
-					"account": "admin@dtstack.com"
-				},
-				{
-					"abbr": "Demonstration-platform",
-					"title": "演示平台",
-					"url": "http://172.16.8.186/",
-					"pwd": "888888",
-					"account": "binghe"
-				},
-				{
-					"abbr": "shanghai_wangcheng",
-					"title": "上海网程",
-					"url": "http://172.16.8.170:8082",
-					"pwd": "Aa123456",
-					"account": "数据3002"
-				},
-				{
-					"abbr": "ruxin",
-					"title": "如新自助取数",
-					"url": "http://172.16.8.170:8080"
-				}
-			]
-		},
-		{
-			"title": "测试环境",
-			"abbr": "test",
-			"children": [
-				{
-					"abbr": "shanghai_wangcheng",
-					"title": "上海网程",
-					"url": "http://36.189.242.134:8082"
-				}
-			]
-		},
-		{
-			"title": "生产环境",
-			"abbr": "production",
-			"children": [
-				{
-					"abbr": "Dt-liangzhu",
-					"title": "良渚",
-					"url": "https://center.lzgcyz.com/#/products",
-					"pwd": "Abc123",
-					"account": "admin@dtstack.com",
-					"remark": "按照这个来写--demo"
-				}
-			]
-		},
-		{
-			"title": "公司产品",
-			"abbr": "comp_prod",
-			"children": [
-				{
-					"abbr": "EASYV",
-					"title": "大屏",
-					"url": "http://easyv.test.dtstack.net/",
-					"pwd": "admin123",
-					"account": "admin@dtstack.com",
-					"remark": "本地hosts绑定：#测试环境 172.16.10.70 easyv.test.dtstack.net, #UIC地址 172.16.10.168 dtuic.dtstack.net"
-				},
-				{
-					"abbr": "DTinsight",
-					"title": "数栈",
-					"url": "https://insight.dtstack.com/",
-					"pwd": "",
-					"account": "",
-					"remark": ""
-				}
-			]
-		},
-		{
-			"title": "技术博文",
-			"abbr": "csxm",
-			"children": []
-		}
-	]
+	{
+		"title": "工具地址",
+		"abbr": "tool",
+		"children": [
+			{
+				"abbr": "Email",
+				"title": "公司邮箱",
+				"url": "http://mail.dtstack.com/"
+			},
+			{
+				"abbr": "Gitlab",
+				"title": "Git仓库",
+				"url": "http://gitlab.prod.dtstack.cn/"
+			},
+			{
+				"abbr": "语雀",
+				"title": "团队知识库",
+				"url": "https://dtstack.yuque.com/delivery-center/fuglu0"
+			},
+			{
+				"abbr": "Jenkins",
+				"title": "自动化神器",
+				"url": "http://172.16.10.90:8080/login?from=%2F",
+				"pwd": "admin",
+				"account": "123456"
+			},
+			{
+				"abbr": "Redmine",
+				"title": "缺陷管理",
+				"url": "http://redmine.prod.dtstack.cn/"
+			},
+			{
+				"abbr": "蓝湖",
+				"title": "原型地址",
+				"url": "https://lanhuapp.com/web/#/item"
+			},
+			{
+				"abbr": "禅道",
+				"title": "项目管理",
+				"url": "http://172.16.8.186:9000/zentao/"
+			}
+		]
+	},
+	{
+		"title": "开发环境",
+		"abbr": "develop",
+		"children": [
+			{
+				"abbr": "liangzhu",
+				"title": "良渚项目",
+				"url": "http://172.16.10.91/",
+				"pwd": "Abc123",
+				"account": "admin@dtstack.com"
+			},
+			{
+				"abbr": "Demonstration-platform",
+				"title": "演示平台",
+				"url": "http://172.16.8.186/",
+				"pwd": "888888",
+				"account": "binghe"
+			},
+			{
+				"abbr": "shanghai_wangcheng",
+				"title": "上海网程",
+				"url": "http://172.16.8.170:8082",
+				"pwd": "Aa123456",
+				"account": "数据3002"
+			},
+			{
+				"abbr": "ruxin",
+				"title": "如新自助取数",
+				"url": "http://172.16.8.170:8080"
+			},
+			{
+				"abbr": "yiwu-sso",
+				"title": "义乌交通sso",
+				"url": "http://172.16.8.170:8083"
+			},
+			{
+				"abbr": "yiwu-traffic",
+				"title": "义乌交通填报系统",
+				"url": "http://172.16.8.170:8085"
+			}
+		]
+	},
+	{
+		"title": "测试环境",
+		"abbr": "test",
+		"children": [
+			{
+				"abbr": "shanghai_wangcheng",
+				"title": "上海网程",
+				"url": "http://36.189.242.134:8082"
+			}
+		]
+	},
+	{
+		"title": "生产环境",
+		"abbr": "production",
+		"children": [
+			{
+				"abbr": "Dt-liangzhu",
+				"title": "良渚",
+				"url": "https://center.lzgcyz.com/#/products",
+				"pwd": "Abc123",
+				"account": "admin@dtstack.com",
+				"remark": "按照这个来写--demo"
+			}
+		]
+	},
+	{
+		"title": "公司产品",
+		"abbr": "comp_prod",
+		"children": [
+			{
+				"abbr": "EASYV",
+				"title": "大屏",
+				"url": "http://easyv.test.dtstack.net/",
+				"pwd": "admin123",
+				"account": "admin@dtstack.com",
+				"remark": "本地hosts绑定：#测试环境 172.16.10.70 easyv.test.dtstack.net, #UIC地址 172.16.10.168 dtuic.dtstack.net"
+			},
+			{
+				"abbr": "DTinsight",
+				"title": "数栈",
+				"url": "https://insight.dtstack.com/",
+				"pwd": "",
+				"account": "",
+				"remark": ""
+			}
+		]
+	},
+	{
+		"title": "技术博文",
+		"abbr": "csxm",
+		"children": []
+	}
+]
