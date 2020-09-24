@@ -81,6 +81,11 @@
 				"abbr": "yiwu-traffic",
 				"title": "义乌交通填报系统",
 				"url": "http://172.16.8.170:8085"
+			},
+			{
+				"abbr": "kobi",
+				"title": "前端-kobi",
+				"url": "http://172.16.8.170:7000"
 			}
 		]
 	},
