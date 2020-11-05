@@ -68,9 +68,14 @@
 				"account": "数据3002"
 			},
 			{
-				"abbr": "ruxin",
+				"abbr": "ruxin-fetchData",
 				"title": "如新自助取数",
 				"url": "http://172.16.8.170:8080"
+			},
+			{
+				"abbr": "ruxin-index",
+				"title": "如新指标管理",
+				"url": "http://172.16.8.170:8086/home?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwiZXhwIjoxNjE4NDU3NzA1fQ.4ah2drGctBjOJZHBypelprWIzcAcvfmUF3oQ2p0Csco"
 			},
 			{
 				"abbr": "yiwu-sso",
