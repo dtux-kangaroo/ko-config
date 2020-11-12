@@ -86,6 +86,11 @@
 				"abbr": "yiwu-traffic",
 				"title": "义乌交通填报系统",
 				"url": "http://172.16.8.170:8085"
+			},
+			{
+				"abbr": "source-index",
+				"title": "资源盘——行业指标系统",
+				"url":"http://172.16.8.170:8100/"
 			}
 		]
 	},
