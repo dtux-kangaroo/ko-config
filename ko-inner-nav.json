@@ -156,6 +156,29 @@
 				"url": "http://172.16.8.170:7000"
 			}
 		]
+	},
+	{
+		"title": "对外产品",
+		"abbr": "external-products",
+		"children": [
+			{
+				"abbr": "dt-con-platform",
+				"title": "网程前台",
+				"url": "http://47.96.22.3:8082 "
+			},{
+				"abbr": "dt-bus-platform",
+				"title": "网程后台(前台跳转)",
+				"url": "http://47.96.22.3:8081"
+			},{
+				"abbr": "dt-index",
+				"title": "指标管理",
+				"url": "http://47.96.22.3:8083/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwiZXhwIjoxNjE4NDU3NzA1fQ.4ah2drGctBjOJZHBypelprWIzcAcvfmUF3oQ2p0Csco"
+			},{
+				"abbr": "dt-fetch",
+				"title": "自助取数",
+				"url": "http://47.96.22.3:8080/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwiZXhwIjoxNjE4NDU3NzA1fQ.4ah2drGctBjOJZHBypelprWIzcAcvfmUF3oQ2p0Csco"
+			}
+		]
 	}
 	
 ]
