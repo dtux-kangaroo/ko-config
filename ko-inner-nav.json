@@ -177,6 +177,12 @@
 				"abbr": "dt-fetch",
 				"title": "自助取数",
 				"url": "http://47.96.22.3:8080/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwiZXhwIjoxNjE4NDU3NzA1fQ.4ah2drGctBjOJZHBypelprWIzcAcvfmUF3oQ2p0Csco"
+			},{
+				"abbr": "culture-tourism",
+				"title": "文旅产品演示平台",
+				"url": "http://47.96.22.3:8084",
+				"account": "admin@dtstack.com",
+				"pwd": "888888"
 			}
 		]
 	}
