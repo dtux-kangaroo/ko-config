@@ -158,16 +158,16 @@
 		]
 	},
 	{
-		"title": "数据开放平台",
+		"title": "对外产品",
 		"abbr": "external-products",
 		"children": [
 			{
 				"abbr": "dt-con-platform",
-				"title": "网程前台",
+				"title": "数据开放平台前台",
 				"url": "http://47.96.22.3:8082 "
 			},{
 				"abbr": "dt-bus-platform",
-				"title": "网程后台(前台跳转)",
+				"title": "数据开放平台后台(前台跳转)",
 				"url": "http://47.96.22.3:8081"
 			},{
 				"abbr": "dt-index",
