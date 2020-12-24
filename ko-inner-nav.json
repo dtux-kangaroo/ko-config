@@ -154,6 +154,11 @@
 				"abbr": "kobi",
 				"title": "前端-kobi",
 				"url": "http://172.16.8.170:7000"
+			},
+			{
+				"abbr": "ko-widget",
+				"title": "前端-ko-widget",
+				"url": "https://dtux-kangaroo.github.io/ko-widget/index.html#/"
 			}
 		]
 	},
